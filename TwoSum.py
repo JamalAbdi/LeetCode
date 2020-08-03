@@ -8,3 +8,4 @@ for x in range(arr_len):
     if ans in nums and (nums.index(ans) != x ) :
     	print( x,nums.index(ans) )
     	break  
+    	""" HOW WELL DOES THIS REALLY WORK """
