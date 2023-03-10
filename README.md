@@ -1,3 +1,2 @@
 # LeetCode
-A collection of Leetcode problems
-
+A collection of my solustions to a few Leetcode problems
